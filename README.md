@@ -21,5 +21,5 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
   
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook5407&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brook5407)](https://github.com/anuraghazra/github-readme-stats)|
+| [![surfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook5407&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) | [![brook5407's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brook5407&layout=compact&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) |
 |:-:|:-:|
