@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyyy! I'm Brook 👋
 
 ![Header](./github-header-image.png)
 
