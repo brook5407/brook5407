@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Dynamic 365 CRM module
 - 👯 I’m looking to collaborate on ...
 
-## ✉️ Let's Connect
+## <img src="https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif" width="40"> <b>Let's Connect<b>
 
 <a href="https://www.linkedin.com/in/chunyong96/" target="_blank">
  <img src="https://img.shields.io/badge/linkedin-%ff5851db.svg?color=0072B1&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
