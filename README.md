@@ -1,12 +1,13 @@
-### Heyyy! I'm Brook  <img src="https://raw.githubusercontent.com/Surfi89/surfi89/main/img/Hi.gif" width="30px">
+## Heyyy! I'm Brook  <img src="https://raw.githubusercontent.com/Surfi89/surfi89/main/img/Hi.gif" width="30px"></h1>
 
-![Header](./github-header-image.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inknut+Antiqua&weight=800&size=29&duration=4000&pause=1000&color=48DD7F&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub;I'm+cadet+from+42KL" alt="Typing SVG" /></a>
 
-## I'm a software developer and also a freelance accountant
+## <img src="https://user-images.githubusercontent.com/100013115/205416900-e5b6374e-6d24-4291-8ce9-3d567a108071.gif" width="30"> <b> About Me
 
-- 👨🏻‍💻 I’m currently working on 42 Core Programme at [42 Kuala Lumpur](https://42kl.edu.my).
-- 📚 I’m currently learning Dynamic 365 CRM module
-- 🏄🏽‍♂️ I’m extreme sport's lover
+- 📖 I'm a passionate self-taught `software developer` and a freelance `accountant` from `Malaysia`
+- 👨🏻‍💻 I’m currently working on `42 Core Programme` at [42 Kuala Lumpur](https://42kl.edu.my).
+- 📚 I’m currently learning `Dynamic 365 CRM module`
+- 🏄🏽‍♂️ I’m `extreme sport's lover`
 
 ## <img src="https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif" width="40"> <b>Let's Connect<b>
 
@@ -18,3 +19,6 @@
   
 | [![surfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook5407&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) | [![brook5407's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brook5407&layout=compact&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) |
 |:-:|:-:|
+
+## <img src="https://user-images.githubusercontent.com/100013115/205416911-c571ed65-53d2-4dd4-a0b9-7c92bfb8f409.gif" width="30"> Favour Quote
+![Linus-Torvalds-quote-about-talking-1d9797-2](https://user-images.githubusercontent.com/100013115/205416635-2b273b12-0e06-4805-ab27-26b87f7f7640.jpg)
