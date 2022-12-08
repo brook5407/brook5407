@@ -1,6 +1,6 @@
 ## Heyyy! I'm Brook  <img src="https://raw.githubusercontent.com/Surfi89/surfi89/main/img/Hi.gif" width="30px"></h1>
 
-<a href="https://www.facebook.com/Brook.CcY/" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Inknut+Antiqua&weight=800&size=29&duration=4000&pause=1000&color=48DD7F&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub;I'm+cadet+from+42KL" alt="Typing SVG" /></a>
+<a href="https://github.com/brook5407?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Inknut+Antiqua&weight=800&size=29&duration=4000&pause=1000&color=48DD7F&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+GitHub;I'm+cadet+from+42KL" alt="Typing SVG" /></a>
 
 ## <img src="https://user-images.githubusercontent.com/100013115/205416900-e5b6374e-6d24-4291-8ce9-3d567a108071.gif" width="30"> <b> About Me
 
