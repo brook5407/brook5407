@@ -9,6 +9,10 @@
 - 📚 I’m currently learning `Dynamic 365 module`
 - 🏄🏽‍♂️ I’m `extreme sport's lover`
 
+## <b>42 Network Stats</b>
+
+[![chchin's 42 stats](https://badge.mediaplus.ma/greenbinary/chchin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+  
 ## <img src="https://user-images.githubusercontent.com/75291303/148881839-962cd91a-4e09-4c00-9871-0ccdb71e4798.gif" width="40"> <b>Let's Connect<b>
 
 <a href="https://www.facebook.com/Brook.CcY/" target="_blank" rel="noopener noreferrer"><img width="36" alt="facebook" src="https://user-images.githubusercontent.com/75291303/148883071-b7e23004-4280-48b5-9960-e7bc39a02762.png"></a>
