@@ -26,3 +26,5 @@
 
 ## <img src="https://user-images.githubusercontent.com/100013115/205416911-c571ed65-53d2-4dd4-a0b9-7c92bfb8f409.gif" width="30"> Favour Quote
 <a href="https://therickroll.com/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/100013115/205416635-2b273b12-0e06-4805-ab27-26b87f7f7640.jpg" /></a>
+
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=brook5407&label=Profile%20Views&color=8&icon=1&pretty=false" /></a>
