@@ -21,7 +21,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
   
-| [![surfi's GitHub stats](https://github-readme-statss.vercel.app/api?username=brook5407&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) | [![brook5407's most used languages](https://github-readme-statss.vercel.app/api/top-langs/?username=brook5407&layout=compact&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) |
+| [![surfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=brook5407&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) | [![brook5407's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brook5407&layout=compact&hide_border=true&theme=prussian)](https://github.com/brook5407?tab=repositories) |
 |:-:|:-:|
 
 ## <img src="https://user-images.githubusercontent.com/100013115/205416911-c571ed65-53d2-4dd4-a0b9-7c92bfb8f409.gif" width="30"> Favour Quote
