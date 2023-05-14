@@ -6,7 +6,7 @@
 
 - 📖 I'm a passionate self-taught `software developer` and a freelance `accountant` from `Malaysia`
 - 👨🏻‍💻 I’m currently working on `42 Core Programme` at [42 Kuala Lumpur](https://42kl.edu.my).
-- 📚 I’m currently learning `Dynamic 365 module`
+- 📚 I’m currently learning `.NET`
 - 🏄🏽‍♂️ I’m `extreme sport's lover`
 
 ## <b>42 Network Stats</b>
